@@ -1,0 +1,5 @@
+# Spyder Project
+.spyproject/
+
+# Generated Files
+**/EOPCO4.npy
